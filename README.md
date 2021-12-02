@@ -17,14 +17,14 @@ The following **required** functionality is completed:
 
 The following **extensions** are implemented:
 
-* [ ] Custom colors palette selected
+* [x] Custom colors palette selected
 * [ ] List anything else that you did to improve the app functionality or design!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://pic.imgdb.cn/item/61a94ab32ab3f51d910d24bd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
